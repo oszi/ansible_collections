@@ -3,7 +3,7 @@ galaxy_info:
   description: "Local CloudFlare DNS management."
   min_ansible_version: "2.16"
   galaxy_tags: []
-  author: David Osztertag
+  author: "David Osztertag @oszi.dev"
   license: Copyright
   platforms:
     - name: Fedora
